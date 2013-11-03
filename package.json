@@ -1,0 +1,31 @@
+{
+      "name"                        : "ee-ha-quorum"
+    , "description"                 : "High Availability client / Server implementation for Master / Master replication based on a Quorum"
+    , "version"                     : "0.1.0"
+    , "homepage"                    : "https://github.com/eventEmitter/ee-ha-quorum"
+    , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
+    , "licence"                     : "mit"
+    , "os"                          : "linux"
+    , "repository": {
+          "url"                     : "https://github.com/eventEmitter/ee-ha-quorum.git"
+        , "type"                    : "git"
+    }
+    , "engines": {
+        "node"                      : ">=v0.10.17"
+    }
+    , "bugs": {
+        "url"                       : "https://github.com/eventEmitter/ee-ha-quorum/issues"
+    }
+    , "dependencies": {
+          "ee-class"                : "*"
+        , "ee-event-emitter"        : "*"
+        , "ee-types"                : "*"
+        , "ee-log"                  : "*"
+        , "ee-net"                  : "*"
+        , "ee-project"              : "*"
+        , "ee-machine-id"           : "*"
+        , "ee-waiter"               : "*"
+    }
+    , "devDependencies": {}
+    , "optionalDependencies": {}
+}
