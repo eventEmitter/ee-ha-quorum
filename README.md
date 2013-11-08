@@ -2,7 +2,7 @@
 
 WIP
 
-High Availability client / Server implementation for Master / Master replication based on a Quorum
+High Availability Client / Server implementation for Master / Master replication based on a Quorum
 
 ## installation
 

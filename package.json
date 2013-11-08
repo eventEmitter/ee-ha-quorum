@@ -1,6 +1,6 @@
 {
       "name"                        : "ee-ha-quorum"
-    , "description"                 : "High Availability client / Server implementation for Master / Master replication based on a Quorum"
+    , "description"                 : "High Availability Client / Server implementation for Master / Master replication based on a Quorum"
     , "version"                     : "0.1.0"
     , "homepage"                    : "https://github.com/eventEmitter/ee-ha-quorum"
     , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
